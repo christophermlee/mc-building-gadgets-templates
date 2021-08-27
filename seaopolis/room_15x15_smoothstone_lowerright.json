@@ -1,0 +1,43 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.16.5",
+    "name": "room_15x15_smoothstone_lowerright",
+    "author": "AgilePenguin",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 14,
+      "max_y": 8,
+      "max_z": 14
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 225,
+          "item": {
+            "id": "minecraft:glass"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 615,
+          "item": {
+            "id": "minecraft:smooth_stone"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 75,
+          "item": {
+            "id": "minecraft:sponge"
+          }
+        }
+      ]
+    }
+  },
+  "body": "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\u003d"
+}
